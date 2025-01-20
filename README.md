@@ -29,7 +29,7 @@ I'm a self-driven learner with a passion for full-stack web development and buil
 
 ## 📈 GitHub Stats
 
-![Iyosiyas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide=prs&count_private=true)
+![Iyosiyas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=iyosiprograming&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
 ## 🌐 Connect with Me
 
