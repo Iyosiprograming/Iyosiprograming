@@ -1,4 +1,4 @@
-# Hi There, I'm IYOSIYAS! 👋
+# Hi There, I'm Iyosiyas! 👋
 
 I'm a self-driven learner with a passion for full-stack web development and building impactful projects. I focus on creating innovative solutions to real-world problems.
 
