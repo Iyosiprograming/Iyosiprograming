@@ -27,9 +27,6 @@ I'm a self-driven learner with a passion for full-stack web development and buil
 - Backend technologies (ASP.NET, Spring Boot)
 - Database management and optimization
 
-## 📈 GitHub Stats
-
-![Iyosiyas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=iyosiprograming&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
 ## 🌐 Connect with Me
 
