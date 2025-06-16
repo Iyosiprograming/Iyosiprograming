@@ -1,37 +1,62 @@
-# Hi There, I'm Iyosiyas! 👋
+# 👋 Hey, I'm Iyosiyas
 
-I'm a self-driven learner with a passion for full-stack web development and building impactful projects. I focus on creating innovative solutions to real-world problems.
+I'm a self-taught developer from Addis Ababa with a sharp focus on **backend development, automation, and full-stack systems** that solve real-world problems. I believe in clean architecture, async performance, and building tools that **actually make money or save time** — especially in **fintech** and **automation**.
+
+---
 
 ## 🚀 About Me
 
-- 🌍 **Based in**: Addis Abeba, Ethiopia
-- 🧑‍🎓 **Currently learning**: Full-stack web development, pursuing a Bachelor's degree in Computer Science at St. Mary's University
-- 💡 **Goal**: Build meaningful projects that solve real-world problems
-- 💻 **Favorite activities**: Coding and problem-solving through technology
-- ✨ **Dream projects**: Projects that bring value to communities or solve real-life challenges
+- 🌍 **Location**: Addis Ababa, Ethiopia  
+- 🧑‍💻 **Full-Stack Background**: MERN stack (MongoDB, Express, React, Node.js)  
+- 🔁 **Now Focused On**: Python, FastAPI, PostgreSQL, bots, background jobs, fintech tools  
+- 🎯 **Goal**: Build profitable systems, freelance on Upwork, and land a high-paying remote job  
+- 📚 **Education**: BSc in Computer Science @ St. Mary’s University  
+- 🛠 **Mission**: Become a backend monster who builds scalable systems that run 24/7 with minimal maintenance  
 
-## 🛠️ Skills
+---
 
-**Languages**:
-- PHP, C#, Java, Python, MongoDB, MySQL, Node.js
+## 🧰 Tech Stack
 
-**Frameworks**:
-- Laravel, Flask, ASP.NET, Spring Boot, Express.js, React Native
+### 🖥️ Backend  
+- **Python**, **FastAPI**, **Node.js**, **Express.js**  
+- **PostgreSQL**, **MongoDB**  
+- REST APIs, JWT Auth, Async programming, Background tasks  
 
-**Tools and Technologies**:
-- Git, VS Code
+### 🌐 Full-Stack (MERN)  
+- **React.js**, **Node.js**, **Express.js**, **MongoDB**  
+- Form handling, state management, API integration  
+- Clean UI design with Tailwind CSS  
 
-## 🌱 Currently Learning
+### 🧪 Automation  
+- Web scraping  
+- PDF/Excel generation  
+- Telegram bots, Job schedulers  
+- Finance APIs, custom analytics  
 
-- Advanced web development concepts
-- Backend technologies (ASP.NET, Spring Boot)
-- Database management and optimization
+### 🛠 Tools  
+- Git & GitHub  
+- Docker (learning), CI/CD basics  
+- VS Code, Postman, Notion  
 
+---
 
-## 🌐 Connect with Me
+## 🌱 Currently Leveling Up
 
-- 📫 **Email**: iyosieyosiyas@gmail.com
-- 🌍 **Portfolio Website**: Coming soon
-- 💬 **Open to**: Collaborating on projects, discussing web development, and sharing knowledge
+- Clean architecture & modular backend design  
+- Fintech APIs (Binance, TradingView, etc.)  
+- Deployment with Docker, Render, Railway  
+- Background task processing & cron job automation  
+- Job scraping & auto-application bots  
 
-Thanks for stopping by! 😊 Feel free to reach out if you want to collaborate or share ideas!
+---
+
+## 🔗 Let's Connect
+
+- 📬 **Email**: iyosieyosiyas@gmail.com  
+- 🌐 **Portfolio**: *Coming soon*  
+- 💬 **Open to**: Freelance gigs, collabs, bots/automation work, and long-term remote roles  
+
+---
+
+> 💡 *“Don’t just code — automate, optimize, dominate.”*  
+Thanks for stopping by — Let’s build something powerful. 🚀
