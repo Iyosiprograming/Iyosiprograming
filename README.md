@@ -1,62 +1,84 @@
-# 👋 Hey, I'm Iyosiyas
+# ⚙️ Backend Engineer • Automation Developer • Ethical Hacker • Full-Stack MERN Dev
 
-I'm a self-taught developer from Addis Ababa with a sharp focus on **backend development, automation, and full-stack systems** that solve real-world problems. I believe in clean architecture, async performance, and building tools that **actually make money or save time** — especially in **fintech** and **automation**.
+Hi, I’m **Iyosiyas** — a self-taught developer from **Addis Ababa, Ethiopia**, building real-world systems with a focus on:
 
----
+🔧 **Backend engineering** with FastAPI & Node.js  
+🤖 **Automation tools** for bots, fintech, and reporting  
+🛡 **Ethical hacking** & cybersecurity lab projects  
+🌐 **Full-stack apps** using the MERN stack
 
-## 🚀 About Me
-
-- 🌍 **Location**: Addis Ababa, Ethiopia  
-- 🧑‍💻 **Full-Stack Background**: MERN stack (MongoDB, Express, React, Node.js)  
-- 🔁 **Now Focused On**: Python, FastAPI, PostgreSQL, bots, background jobs, fintech tools  
-- 🎯 **Goal**: Build profitable systems, freelance on Upwork, and land a high-paying remote job  
-- 📚 **Education**: BSc in Computer Science @ St. Mary’s University  
-- 🛠 **Mission**: Become a backend monster who builds scalable systems that run 24/7 with minimal maintenance  
+My goal is to create secure, automated, and scalable systems that solve real-world problems — and to freelance globally while sharing knowledge locally.
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Core Tech Stack
 
-### 🖥️ Backend  
+### 💻 Backend Development  
 - **Python**, **FastAPI**, **Node.js**, **Express.js**  
 - **PostgreSQL**, **MongoDB**  
-- REST APIs, JWT Auth, Async programming, Background tasks  
+- REST APIs, JWT Auth, async tasks, clean architecture  
 
 ### 🌐 Full-Stack (MERN)  
-- **React.js**, **Node.js**, **Express.js**, **MongoDB**  
-- Form handling, state management, API integration  
-- Clean UI design with Tailwind CSS  
+- **MongoDB**, **Express.js**, **React.js**, **Node.js**  
+- Tailwind CSS, state management, responsive UIs  
+- Auth systems, dashboards, API integration  
 
-### 🧪 Automation  
-- Web scraping  
-- PDF/Excel generation  
-- Telegram bots, Job schedulers  
-- Finance APIs, custom analytics  
+### 🤖 Automation  
+- Web scraping (BeautifulSoup, Selenium)  
+- Telegram bots, cron jobs, financial tools  
+- PDF/Excel generation, signal systems, custom scripts  
 
-### 🛠 Tools  
+### 🛡 Ethical Hacking & Cybersecurity  
+- Tools: **Burp Suite**, **Nmap**, **Wireshark**, **Metasploit**, **Kali Linux**  
+- Platforms: **Hack The Box**, **TryHackMe**  
+- Areas: Linux, recon, web app testing, network security  
+- Certifications: Working on **OSCP** and **CEH**  
+
+### 🧰 Dev Tools & Workflow  
 - Git & GitHub  
 - Docker (learning), CI/CD basics  
-- VS Code, Postman, Notion  
+- Postman, Notion, VS Code  
+
+---
+
+## 🛠 Projects
+
+> Real tools & systems I’ve built or am building. More open-source coming soon.
+
+- 🔐 **SecureAuthAPI** – FastAPI backend with auth, roles, and rate-limiting  
+- 📈 **Fintech Dashboard** – MERN app for real-time trading news & signal data  
+- 🤖 **AutoTraderBot** – Python bot that scrapes signals and sends alerts to Telegram  
+- 🕵️‍♂️ **ReconScanner** – Cyber tool for recon + vuln scanning  
+- 📊 **PDFReportBot** – Auto-report generator with charts, sent to Telegram or email  
 
 ---
 
 ## 🌱 Currently Leveling Up
 
-- Clean architecture & modular backend design  
-- Fintech APIs (Binance, TradingView, etc.)  
-- Deployment with Docker, Render, Railway  
-- Background task processing & cron job automation  
-- Job scraping & auto-application bots  
+- Clean backend architecture (FastAPI + PostgreSQL)  
+- Docker, deployment (Railway, Render)  
+- Cyber lab exercises (offensive & defensive)  
+- Fintech APIs, payment integrations  
+- CI/CD pipelines and production workflows  
 
 ---
 
-## 🔗 Let's Connect
+## 🎯 2025 Goals
 
-- 📬 **Email**: iyosieyosiyas@gmail.com  
-- 🌐 **Portfolio**: *Coming soon*  
-- 💬 **Open to**: Freelance gigs, collabs, bots/automation work, and long-term remote roles  
+- 🌍 Freelance on Upwork (backend, automation, security)  
+- 🔒 Build open-source cyber & automation tools  
+- 💼 Land a top-tier remote job or start a fintech/security startup  
+- 📢 Teach backend + cybersecurity to young devs in Africa  
 
 ---
 
-> 💡 *“Don’t just code — automate, optimize, dominate.”*  
-Thanks for stopping by — Let’s build something powerful. 🚀
+## 📬 Let’s Connect
+
+- 📧 Email: [iyosieyosiyas@gmail.com](mailto:iyosieyosiyas@gmail.com)  
+- 🌐 Portfolio: *Coming soon*  
+- 💬 Open to: Freelance jobs, backend/cyber collabs, fintech automations  
+
+---
+
+> 💡 *“Don’t just code — automate, secure, and dominate.”*  
+Thanks for stopping by — let’s build something real. 🚀
