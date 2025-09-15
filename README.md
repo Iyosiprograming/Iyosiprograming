@@ -1,70 +1,71 @@
-# ⚙️ Backend Engineer • Automation Developer • Ethical Hacker • Full-Stack MERN Dev
+# 👋 Hi, I’m Iyosiyas
+**⚙️ Backend Engineer • Automation Developer • Ethical Hacker • Full-Stack MERN Dev**  
+📍 Addis Ababa, Ethiopia | 💌 [iyosieyosiyas@gmail.com](mailto:iyosieyosiyas@gmail.com)  
 
-Hi, I’m **Iyosiyas** — a self-taught developer from **Addis Ababa, Ethiopia**, building real-world systems with a focus on:
-
-🔧 **Backend engineering** with FastAPI & Node.js  
-🤖 **Automation tools** for bots, fintech, and reporting  
-🛡 **Ethical hacking** & cybersecurity lab projects  
-🌐 **Full-stack apps** using the MERN stack
-
-My goal is to create secure, automated, and scalable systems that solve real-world problems — and to freelance globally while sharing knowledge locally.
+Hi! I’m a self-taught developer building **secure, automated, and scalable systems** that solve real-world problems. I also freelance globally while sharing knowledge locally.  
 
 ---
 
-## 🧠 Core Tech Stack
+## 🛠️ Core Tech Stack
 
-### 💻 Backend Development  
-- **Python**, **FastAPI**, **Node.js**, **Express.js**  
-- **PostgreSQL**, **MongoDB**  
-- REST APIs, JWT Auth, async tasks, clean architecture  
+### 💻 Backend
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🌐 Full-Stack (MERN)  
-- **MongoDB**, **Express.js**, **React.js**, **Node.js**  
-- Tailwind CSS, state management, responsive UIs  
-- Auth systems, dashboards, API integration  
+### 🌐 Full-Stack (MERN)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🤖 Automation  
-- Web scraping (BeautifulSoup, Selenium)  
-- Telegram bots, cron jobs, financial tools  
-- PDF/Excel generation, signal systems, custom scripts  
+### 🤖 Automation
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-FF6600?style=for-the-badge&logo=python&logoColor=white)
 
-### 🛡 Ethical Hacking & Cybersecurity  
-- Tools: **Burp Suite**, **Nmap**, **Wireshark**, **Metasploit**, **Kali Linux**  
-- Platforms: **Hack The Box**, **TryHackMe**  
-- Areas: Linux, recon, web app testing, network security  
-- Certifications: Working on **OSCP** and **CEH**  
+### 🛡 Ethical Hacking & Cybersecurity
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-FF0066?style=for-the-badge&logo=metasploit&logoColor=white)
 
-### 🧰 Dev Tools & Workflow  
-- Git & GitHub  
-- Docker (learning), CI/CD basics  
-- Postman, Notion, VS Code  
+### 🧰 Dev Tools & Workflow
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🛠 Projects
+## 📊 GitHub Stats
+![Iyosiyas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iyosiprograming&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iyosiprograming&layout=compact&theme=tokyonight)
 
-> Real tools & systems I’ve built or am building. More open-source coming soon.
+---
 
-- 🔐 **SecureAuthAPI** – FastAPI backend with auth, roles, and rate-limiting  
-- 📈 **Fintech Dashboard** – MERN app for real-time trading news & signal data  
-- 🤖 **AutoTraderBot** – Python bot that scrapes signals and sends alerts to Telegram  
-- 🕵️‍♂️ **ReconScanner** – Cyber tool for recon + vuln scanning  
-- 📊 **PDFReportBot** – Auto-report generator with charts, sent to Telegram or email  
+## 🔥 Projects
+- **🔐 SecureAuthAPI** – FastAPI backend with auth, roles, and rate-limiting  
+- **📈 Fintech Dashboard** – MERN app for real-time trading news & signal data  
+- **🤖 AutoTraderBot** – Python bot that scrapes signals and sends alerts to Telegram  
+- **🕵️‍♂️ ReconScanner** – Cyber tool for recon & vuln scanning  
+- **📊 PDFReportBot** – Auto-report generator with charts, sent to Telegram or email  
 
 ---
 
 ## 🌱 Currently Leveling Up
-
 - Clean backend architecture (FastAPI + PostgreSQL)  
-- Docker, deployment (Railway, Render)  
+- Docker & deployment (Railway, Render)  
 - Cyber lab exercises (offensive & defensive)  
 - Fintech APIs, payment integrations  
-- CI/CD pipelines and production workflows  
+- CI/CD pipelines & production workflows  
 
 ---
 
 ## 🎯 2025 Goals
-
 - 🌍 Freelance on Upwork (backend, automation, security)  
 - 🔒 Build open-source cyber & automation tools  
 - 💼 Land a top-tier remote job or start a fintech/security startup  
@@ -73,12 +74,8 @@ My goal is to create secure, automated, and scalable systems that solve real-wor
 ---
 
 ## 📬 Let’s Connect
+- Email: [iyosieyosiyas@gmail.com](mailto:iyosieyosiyas@gmail.com)  
+- Portfolio: *Coming soon*  
+- Open to: Freelance jobs, backend/cyber collabs, fintech automations  
 
-- 📧 Email: [iyosieyosiyas@gmail.com](mailto:iyosieyosiyas@gmail.com)  
-- 🌐 Portfolio: *Coming soon*  
-- 💬 Open to: Freelance jobs, backend/cyber collabs, fintech automations  
-
----
-
-> 💡 *“Don’t just code — automate, secure, and dominate.”*  
-Thanks for stopping by — let’s build something real. 🚀
+> 💡 “Don’t just code — automate, secure, and dominate.” 🚀
