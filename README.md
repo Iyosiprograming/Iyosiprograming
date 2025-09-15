@@ -38,11 +38,14 @@ Hi! I’m a self-taught developer building **secure, automated, and scalable sys
 ---
 
 ## 🔥 Projects
-- **🔐 SecureAuthAPI** – FastAPI backend with auth, roles, and rate-limiting  
-- **📈 Fintech Dashboard** – MERN app for real-time trading news & signal data  
-- **🤖 AutoTraderBot** – Python bot that scrapes signals and sends alerts to Telegram  
-- **🕵️‍♂️ ReconScanner** – Cyber tool for recon & vuln scanning  
-- **📊 PDFReportBot** – Auto-report generator with charts, sent to Telegram or email  
+
+- **🤖 Forex AI Bot** – Telegram bot for forex trading with AI-powered predictions and trade signals.  
+- **💎 Meme Coin Info Bot** – AI system that gathers and analyzes data on meme coins.  
+- **📢 Upwork Job Notifier** – Telegram bot sending real-time notifications for relevant Upwork jobs.  
+- **🛡️ Cheating Detection Analyzer** – AI-based system to detect cheating in online exams.  
+- **🎓 Full LMS** – Full-stack Learning Management System with grading, registration, and online payments.  
+- **🧑‍🏫 AI University Tutor** – AI-powered tutor system to assist university students in learning.  
+- **👨‍🏫 University AI Teacher** – Full AI-integrated virtual teacher for course instruction and guidance.  
 
 ---
 
