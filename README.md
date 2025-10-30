@@ -55,6 +55,12 @@ I'm a self-taught developer with a CS degree that doesn't reflect my passion for
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyosiprograming&layout=compact&theme=radical" height="160"/>
 
 ---
+## 📊 GitHub Stats & Achievements
+
+<img src="https://github-readme-stats.vercel.app/api?username=iyosiprograming&show_icons=true&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyosiprograming&layout=compact&theme=radical" height="160"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iyosiprograming&theme=radical&no-frame=true&margin-w=10&margin-h=10" height="160"/>
+
 
 ## 📫 Let's Connect
 
