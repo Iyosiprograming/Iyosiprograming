@@ -1,66 +1,76 @@
 
+
 # 👋 Hi, I'm Iyosiyas
 
-**🚀 Self-Taught Developer | Building My Way Into Tech**  
-📍 Addis Ababa, Ethiopia | 💌 [iyosieyosiyas@gmail.com](mailto:iyosieyosiyas@gmail.com)  
+**💻 Self-Taught Full-Stack Developer | Building My Way Into Tech Through Projects**  
 
-I'm a self-taught programmer with a CS degree that doesn't tell my full story. My grades aren't great, but I'm building my way into a software development career through consistent projects and learning in public.
-
-I document everything I do: from learning new skills and building projects to job applications and interview lessons. This is my public developer journey.
+> *"CS degree with bad grades, but building my way into the industry one project at a time"*
 
 ---
 
-## 🛠️ What I'm Working With
+## 🛠️ Tech Stack
 
-### 🔧 Backend & Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🔧 Backend
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-### 🌐 Full-Stack
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🗄️ Databases
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-### 🛠️ Daily Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🌱 Currently Learning & Building
-
-- **Backend Architecture** with FastAPI & PostgreSQL
-- **Deployment** with Docker & cloud platforms
-- **Full-stack projects** that solve real problems
-- **Open source contributions** and personal tools
-- **Job-ready skills** through consistent building
+### 🌐 Frontend
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 ---
 
-## 🎯 What I'm Working Toward
+## 🚀 My Journey
 
-- **First developer role** where I can grow and contribute
-- **Building in public** and documenting my journey
-- **Freelance opportunities** to gain real-world experience
-- **Connecting with other developers** on similar paths
-- **Creating value** through code that actually works
+I'm a self-taught developer with a CS degree that doesn't reflect my passion for coding. While my academic record isn't perfect, I'm proving my skills through:
+
+- **Building real projects** that solve actual problems
+- **Learning in public** and documenting my progress
+- **Consistent coding** every single day
+- **Focusing on what matters**: writing code that works
+
+### 🌱 Currently Building
+- Full-stack applications with modern tech stacks
+- Backend APIs with proper architecture
+- Portfolio projects that demonstrate real skills
+- Open source tools for other developers
+
+### 🎯 2025 Goals
+- Land my first developer role
+- Contribute to open source
+- Build 10+ production-ready projects
+- Mentor other self-taught developers
 
 ---
 
-## 📬 Let's Connect
+## 📊 GitHub Stats
 
-I'm always open to:
-- Advice from experienced developers
-- Connecting with other self-taught programmers
-- Junior developer opportunities
-- Collaborating on interesting projects
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iyosiprograming&show_icons=true&theme=radical)
 
-**Email:** [iyosieyosiyas@gmail.com](mailto:iyosieyosiyas@gmail.com)  
-**GitHub:** Working on making my profile public-ready
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iyosiprograming&layout=compact&theme=radical)
 
-> 💡 *"Learning in public, building in private, growing consistently."*
+---
 
+## 📫 Let's Connect
+
+- 📧 **Email**: [iyosieyosiyas@gmail.com](mailto:iyosieyosiyas@gmail.com)
+- 💼 **LinkedIn**: [Iyosiyas Simon](https://linkedin.com/in/iyosiyas-simon)
+- 🐦 **Portfolio**: *Coming Soon*
+
+---
+
+> **💡 "Grades don't build products. Code does."**
+
+
+---
+
+**⭐️ Feel free to explore my repositories and watch my coding journey unfold!**
 
