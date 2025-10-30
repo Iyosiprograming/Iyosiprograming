@@ -1,74 +1,68 @@
-# 👋 Hi, I’m Iyosiyas
-**⚙️ Backend Engineer • Automation Developer • Ethical Hacker • Full-Stack MERN Dev**  
+
+# 👋 Hi, I'm Iyosiyas
+
+**🚀 Self-Taught Developer | Building My Way Into Tech**  
 📍 Addis Ababa, Ethiopia | 💌 [iyosieyosiyas@gmail.com](mailto:iyosieyosiyas@gmail.com)  
 
-Hi! I’m a self-taught developer building **secure, automated, and scalable systems** that solve real-world problems. I also freelance globally while sharing knowledge locally.  
+I'm a self-taught programmer with a CS degree that doesn't tell my full story. My grades aren't great, but I'm building my way into a software development career through consistent projects and learning in public.
+
+I document everything I do: from learning new skills and building projects to job applications and interview lessons. This is my public developer journey.
 
 ---
 
-## 🛠️ Core Tech Stack
+## 🛠️ What I'm Working With
 
-### 💻 Backend
+### 🔧 Backend & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🌐 Full-Stack (MERN)
+### 🌐 Full-Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🤖 Automation
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF6600?style=for-the-badge&logo=python&logoColor=white)
-
-### 🛡 Ethical Hacking & Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-FF0066?style=for-the-badge&logo=metasploit&logoColor=white)
-
-### 🧰 Dev Tools & Workflow
+### 🛠️ Daily Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🔥 Projects
+## 🌱 Currently Learning & Building
 
-- **🤖 Forex AI Bot** – Telegram bot for forex trading with AI-powered predictions and trade signals.  
-- **💎 Meme Coin Info Bot** – AI system that gathers and analyzes data on meme coins.  
-- **📢 Upwork Job Notifier** – Telegram bot sending real-time notifications for relevant Upwork jobs.  
-- **🛡️ Cheating Detection Analyzer** – AI-based system to detect cheating in online exams.  
-- **🎓 Full LMS** – Full-stack Learning Management System with grading, registration, and online payments.  
-- **🧑‍🏫 AI University Tutor** – AI-powered tutor system to assist university students in learning.  
-- **👨‍🏫 University AI Teacher** – Full AI-integrated virtual teacher for course instruction and guidance.  
+- **Backend Architecture** with FastAPI & PostgreSQL
+- **Deployment** with Docker & cloud platforms
+- **Full-stack projects** that solve real problems
+- **Open source contributions** and personal tools
+- **Job-ready skills** through consistent building
 
 ---
 
-## 🌱 Currently Leveling Up
-- Clean backend architecture (FastAPI + PostgreSQL)  
-- Docker & deployment (Railway, Render)  
-- Cyber lab exercises (offensive & defensive)  
-- Fintech APIs, payment integrations  
-- CI/CD pipelines & production workflows  
+## 🎯 What I'm Working Toward
+
+- **First developer role** where I can grow and contribute
+- **Building in public** and documenting my journey
+- **Freelance opportunities** to gain real-world experience
+- **Connecting with other developers** on similar paths
+- **Creating value** through code that actually works
 
 ---
 
-## 🎯 2025 Goals
-- 🌍 Freelance on Upwork (backend, automation, security)  
-- 🔒 Build open-source cyber & automation tools  
-- 💼 Land a top-tier remote job or start a fintech/security startup  
-- 📢 Teach backend + cybersecurity to young devs in Africa  
+## 📬 Let's Connect
+
+I'm always open to:
+- Advice from experienced developers
+- Connecting with other self-taught programmers
+- Junior developer opportunities
+- Collaborating on interesting projects
+
+**Email:** [iyosieyosiyas@gmail.com](mailto:iyosieyosiyas@gmail.com)  
+**GitHub:** Working on making my profile public-ready
+
+> 💡 *"Learning in public, building in private, growing consistently."*
 
 ---
 
-## 📬 Let’s Connect
-- Email: [iyosieyosiyas@gmail.com](mailto:iyosieyosiyas@gmail.com)  
-- Portfolio: *Coming soon*  
-- Open to: Freelance jobs, backend/cyber collabs, fintech automations  
-
-> 💡 “Don’t just code — automate, secure, and dominate.” 🚀
+This version maintains your technical credibility while adopting the humble, growth-focused narrative you wanted. It shows you're serious about development but honest about being at the beginning of your journey.
