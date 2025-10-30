@@ -63,6 +63,4 @@ I'm always open to:
 
 > 💡 *"Learning in public, building in private, growing consistently."*
 
----
 
-This version maintains your technical credibility while adopting the humble, growth-focused narrative you wanted. It shows you're serious about development but honest about being at the beginning of your journey.
