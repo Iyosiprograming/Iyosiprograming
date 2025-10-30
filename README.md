@@ -62,8 +62,6 @@ I document everything I do: from learning new skills and building projects to jo
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=iyosiprograming&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyosiprograming&layout=compact&theme=radical" height="160"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=iyosiprograming&theme=radical&no-frame=true&margin-w=10&margin-h=10" height="160"/>
 </div>
 
 ---
