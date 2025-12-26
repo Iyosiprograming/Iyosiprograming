@@ -47,7 +47,7 @@ Hey there! I'm **Iyosiyas Simon**,full-stack developer from Addis Ababa, Ethiopi
 
 - 📧 **Email:** [iyosieyoisyas@gmail.com](mailto:iyosieyosi@gmail.com)
 - 💼 **LinkedIn:** [Iyosiyas Simon](https://www.linkedin.com/in/iyosiyas-simon-24ab5839b/)
-- 🐦 **Twitter:** [@iyosiyas](https://twitter.com/iyosiyas)
+- 🐦 **Twitter:** [@iyosiyas](https://x.com/IyosiyasS57213)
 
 ---
 
