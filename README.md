@@ -64,6 +64,3 @@ I'm actively seeking:
 - 🤝 **Collaborations** on innovative SaaS projects
 - 🎯 **Freelance opportunities** that challenge my skills
 - 💡 **Startup ideas** that solve real problems
-
-
-⭐ *From [Iyosiyas Simon](https://github.com/iyosiyas)*
