@@ -8,7 +8,7 @@ Hey there! I'm **Iyosiyas Simon**,full-stack developer from Addis Ababa, Ethiopi
 
 - 🔥 **Quick learner** - give me a week and I'll be intermediate in any technology
 - 🚀 Passionate about building **SaaS products** and solving real-world problems
-- 🤖 **AI enthusiast** who knows how to leverage AI tools effectively
+- 🤖 **AI enthusiast** I knows how to leverage AI tools effectively
 - 🎯 **Goal:** Create monetizable projects that users love and pay for
 
 ---
@@ -24,8 +24,6 @@ Hey there! I'm **Iyosiyas Simon**,full-stack developer from Addis Ababa, Ethiopi
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -67,10 +65,5 @@ I'm actively seeking:
 - 🎯 **Freelance opportunities** that challenge my skills
 - 💡 **Startup ideas** that solve real problems
 
----
-
-*"From Addis Ababa to the world - building digital solutions that make a difference."*
-
----
 
 ⭐ *From [Iyosiyas Simon](https://github.com/iyosiyas)*
