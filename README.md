@@ -9,5 +9,5 @@
 #### Frameworks & tools I use daily
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,fastapi,docker,pytest,linux,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,fastapi,docker,linux,ubuntu" />
 </p>
