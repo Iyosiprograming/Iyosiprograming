@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Junior Backend Developer by day ☼ and a Backend Engineer in progress by night ☾
+#### A Fullstack Developer by day ☼ and a Backend Engineer in progress by night ☾
 
 * ⚙️ I use daily: `.py`, `.js`, `.ts`, `.html`, `.css`, `.sql`, `.ai`
 * 🌍 I'm mostly focused on **Backend Development**
