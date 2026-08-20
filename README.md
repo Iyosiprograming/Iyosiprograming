@@ -6,6 +6,8 @@
 * 🌍 I'm mostly focused on **Backend Development**
 * 💻 Currently building **Backend and Full-Stack applications**
 
+#### Frameworks & tools I use daily
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,ts,html,css,mongodb,mongoose,postgresql,sqlalchemy,pytest,docker,githubactions,ubuntu,linux" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,fastapi,docker,pytest,linux,ubuntu" />
 </p>
